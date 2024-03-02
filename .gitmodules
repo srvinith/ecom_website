@@ -1,0 +1,3 @@
+[submodule "ecom_frontend"]
+	path = ecom_frontend
+	url = https://github.com/srvinith/ecom_frontend.git
